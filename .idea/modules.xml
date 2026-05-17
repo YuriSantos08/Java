@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_For/Estrutura_For.iml" filepath="$PROJECT_DIR$/Estrutura_For/Estrutura_For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_While/Estrutura_While.iml" filepath="$PROJECT_DIR$/Estrutura_While/Estrutura_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_condicional/Estrutura_condicional.iml" filepath="$PROJECT_DIR$/Estrutura_condicional/Estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_java.iml" filepath="$PROJECT_DIR$/curso_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_Estrutura_Sequencial/exercicios_Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/exercicios_Estrutura_Sequencial/exercicios_Estrutura_Sequencial.iml" />
+    </modules>
+  </component>
+</project>

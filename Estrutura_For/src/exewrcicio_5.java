@@ -1,0 +1,19 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class exewrcicio_5 {
+    public static void main(String[] args) {
+
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
+
+        int n, fat = 1;
+        n = sc.nextInt();
+
+        for (int i = 1; i <= n ; i++) {
+            fat = fat*i;
+        }
+        System.out.println(fat);
+        sc.close();
+    }
+}
